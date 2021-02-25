@@ -9,6 +9,7 @@ The purpose of this repo is to get Instance Segmentation, specifically Mask-RCNN
 
 What things you need to install the software and how to install them
 
+- Python 3.6.13
 - Tensorflow 1.14.0
 - Keras 2.3.0
 - OpenCV-Python Latest Version
